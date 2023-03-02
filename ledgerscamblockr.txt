@@ -1,4 +1,4 @@
-Ledger Scam Site list by Trupsalms
+# Ledger Scam Site list by Trupsalms
 # License: GPLv3
 
 ledger-hardwarenetworksss-net.web.app
