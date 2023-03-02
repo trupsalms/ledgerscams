@@ -1,0 +1,2 @@
+ledger-hardwarenetworksss-net.web.app
+ledgerlivetool.web.app
