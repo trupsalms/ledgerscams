@@ -3,3 +3,4 @@
 
 ledger-hardwarenetworksss-net.web.app
 ledgerlivetool.web.app
+Ledger-support.web.app
